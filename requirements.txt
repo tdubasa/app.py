@@ -1,4 +1,4 @@
-Plaintext
 pandas
 matplotlib
 japanize-matplotlib
+numpy
